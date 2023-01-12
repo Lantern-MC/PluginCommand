@@ -1,0 +1,4 @@
+name: PluginsCommand
+version: '${project.version}'
+main: net.lanternmc.pluginscommand.PluginsCommand
+description: Look Plugins In Bukkit
